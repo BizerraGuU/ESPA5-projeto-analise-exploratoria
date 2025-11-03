@@ -1,19 +1,34 @@
-#📊 Projeto – Análise Exploratória de Dados
+# 📊 Projeto – Análise Exploratória de Dados
 
 IFSP – TADS – ESPA5 (Estatística e Probabilidade)
-Professora: Profa. Dra. Josceli M.
+Professora: Profa. Dra. Josceli Maria Tenorio
 Turma: Quinta-feira
 
-#🧩 Descrição Geral
+## 🧩 Descrição Geral
 
-Este repositório foi criado para o projeto de Análise Exploratória de Dados da disciplina ESPA5 – Estatística e Probabilidade, ministrada pela professora Josceli no curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) do IFSP.
+Repositório criado para o Projeto da disciplina ESPA5, ministrada pela Profa. Dra Josceli Maria Tenorio, como critério de avaliação da disciplina. 
 
-O objetivo do trabalho é realizar análises estatísticas e probabilísticas sobre dois conjuntos de dados em formato CSV, utilizando a linguagem Python e as bibliotecas aprendidas em aula (como pandas, matplotlib, seaborn, numpy e scipy).
+O objetivo do projeto é realizar análises estatísticas e probabilísticas sobre dois conjuntos de dados em formato CSV, utilizando a linguagem Python e as bibliotecas vistas em aula (como pandas, matplotlib, seaborn, numpy e scipy).
 
-#🧠 Objetivo do Projeto
+## 🧠 Objetivo do Projeto
 
-Desenvolver uma análise exploratória de dados (EDA) a partir de dois arquivos CSV.
+1. Desenvolver uma análise exploratória de dados (EDA) a partir de dois arquivos CSV.
 
-Os arquivos devem vir de duas pastas diferentes, e deve haver alguma relação lógica entre eles (por exemplo: taxa de mortalidade excessiva e internações por COVID-19).
+Os arquivos CSV escolhidos foram:
+|Nome do Dataset|Link para acesso|
+|-|-|
+|Motor Vehicle Collisions - Crashes|https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes|
+|Electric Vehicle Population Data|https://catalog.data.gov/dataset/electric-vehicle-population-data|
 
-Produzir um relatório em PDF explicando o processo analítico e incluindo gráficos, medidas estatísticas e testes de hipótese.
+> ***OBS: Os datasets foram salvos em uma pasta no drive, dado que o tamanho deles impossibilitava subí-los no repositório GitHub***
+
+2. Produzir um relatório em PDF explicando o processo analítico e incluindo gráficos, medidas estatísticas e testes de hipótese.
+
+## 👥 Grupo:
+
+|Nome|Prontuário|
+|-|-|
+|Gustavo Bezerra de Andrade|SP313475X|
+|Jefferson Bispo de Lima de Jesus|SP3139328|
+|Seung Jin Jicá Casierra|SP3134229|
+|Vitor Augusto dos Santos|SP3132048|
