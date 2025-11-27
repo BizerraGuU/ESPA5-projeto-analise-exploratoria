@@ -25,43 +25,7 @@ Os arquivos CSV escolhidos foram:
 
 2. Produzir um relatório em PDF explicando o processo analítico e incluindo gráficos, medidas estatísticas e testes de hipótese.
 
-## 📦 Uso do Git LFS (Large File Storage)
-
-Este projeto utiliza **Git LFS** para versionamento de arquivos grandes, como datasets CSV que ultrapassam o limite padrão do GitHub.
-
-### 🔧 Como configurar o Git LFS no seu ambiente
-
-1. Instale o Git LFS (caso ainda não tenha):
-
-```bash
-git lfs install
-```
-
-2. Configure o rastreamento para arquivos CSV (ou outros formatos necessários):
-
-```bash
-git lfs track "archives/*"
-```
-
-3. Confirme a criação/atualização do arquivo `.gitattributes`:
-
-```bash
-cat .gitattributes
-```
-
-Ele deve conter algo como:
-
-```
-archives/* filter=lfs diff=lfs merge=lfs -text
-```
-
-4. Adicione, faça commit e envie normalmente:
-
-```bash
-git add .
-git commit -m "Adicionando arquivos grandes com Git LFS"
-git push
-```
+---
 
 ## 👥 Grupo
 
