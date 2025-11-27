@@ -18,7 +18,7 @@
 
 Execute a primeira célula do notebook ```analise_exploratoria_ESP1A5.ipynb``` para instalar todas as dependências.
 Garanta de que a ```venv``` já está instanciada e atividada antes de executar.
-    - Se estiver tudo correto, ela ficará mais ou menos assim:
+- Se estiver tudo correto, ela ficará mais ou menos assim:
     
     ```
     (venv) PS C:\Users\user\path\ESPA5-projeto-analise-exploratoria>
